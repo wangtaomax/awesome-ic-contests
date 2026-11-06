@@ -1,8 +1,8 @@
 <div align="center">
 
-# Awesome IC Contests
+# 集成电路与电子信息竞赛指南
 
-### 集成电路与电子信息竞赛指南
+### Awesome IC Contests
 
 面向集成电路、微电子、电子信息工程专业学生的竞赛清单。
 
